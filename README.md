@@ -1,5 +1,5 @@
 
-# FirstClub Membership Program
+# Membership Program
 
 ## Features
 
